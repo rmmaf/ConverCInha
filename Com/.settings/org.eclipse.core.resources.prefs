@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/app/appNet/ControlRcv.java=UTF-8
+encoding//src/app/appNet/GroupMessageSender.java=UTF-8
+encoding//src/app/appNet/MessageSenderJava.java=UTF-8
+encoding//src/app/appNet/RTTSender.java=UTF-8
+encoding//src/app/appNet/RTTSenderNATmod.java=UTF-8
